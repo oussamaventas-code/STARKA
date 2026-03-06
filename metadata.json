@@ -1,0 +1,5 @@
+{
+  "name": "Starka Motor S.L | Taller Mecánico en Murcia",
+  "description": "Taller multimarca en Murcia especializado en chapa, pintura, mecánica y electricidad. Servicio profesional con garantía y más de 15 años de experiencia.",
+  "requestFramePermissions": ["geolocation"]
+}
