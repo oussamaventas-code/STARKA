@@ -144,7 +144,7 @@ export default function VehiculosPage() {
             Trabajamos bajo pedido. Cuéntanos qué vehículo estás buscando y nosotros nos encargamos 
             de localizarlo, revisarlo y traértelo con todas las garantías de Starka Motor.
           </p>
-          <MagneticButton href="https://wa.me/34661849442" variant="outline">
+          <MagneticButton href="https://wa.me/34661849442" variant="ghost">
             Encargar vehículo
           </MagneticButton>
         </div>
